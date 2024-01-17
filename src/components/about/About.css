@@ -1,0 +1,48 @@
+.about {
+	width: 80%;
+	height: 100%;
+	margin: 17%;
+}
+.title-about {
+	font-size: 40px;
+	font-weight: bold;
+}
+.title-about span {
+	color: rgb(110, 77, 208);
+}
+h2 {
+	font-size: 35px;
+	font-weight: bold;
+}
+P {
+	font-size: 20px;
+}
+.link {
+	background-color: rgb(236, 232, 248);
+	padding: 15px;
+	border-radius: 50%;
+	margin: 5px;
+	font-size: 30px;
+	color: rgb(110, 77, 208);
+}
+.link:hover {
+	background-color: rgb(110, 77, 208);
+	color: white;
+	cursor: pointer;
+}
+
+.btn {
+	background-color: rgb(236, 232, 248);
+	padding: 15px;
+	border-radius: 20%;
+	margin: 15px;
+	font-size: 25px;
+	color: rgb(110, 77, 208);
+	border: none;
+	outline: none;
+}
+.btn:hover {
+	background-color: rgb(110, 77, 208);
+	color: white;
+	cursor: pointer;
+}

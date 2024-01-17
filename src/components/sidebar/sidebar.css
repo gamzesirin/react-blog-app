@@ -1,0 +1,27 @@
+.sidebar {
+	position: fixed;
+	width: 10%;
+	height: 100%;
+	background-color: #000000;
+	color: #ffffff;
+	padding: 20px;
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+	overflow: hidden;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	transition: 0.5s;
+}
+
+.img {
+	border-radius: 50%;
+	width: 50%;
+	height: 100px;
+	margin: 0 auto;
+	margin-top: 300px;
+	padding: 10px;
+	border: 1px solid #ffffff;
+	background: url('https://halklailiskiler.co/wp-content/uploads/2022/09/Blog.jpg');
+	background-size: cover;
+	background-position: center;
+}
