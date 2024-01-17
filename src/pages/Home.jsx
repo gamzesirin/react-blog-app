@@ -1,5 +1,5 @@
 import About from '../components/about/About'
-import Sidebar from '../components/sidebar/sidebar'
+import Sidebar from '../components/sidebar/Sidebar'
 
 const Home = () => {
 	return (
